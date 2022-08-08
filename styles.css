@@ -44,3 +44,8 @@ img{
   list-style: lower-greek;
   margin: 10px 0;
 }
+.todos{
+    width: 500px;
+    margin: 50px auto;
+    border: 2px solid black;
+}
