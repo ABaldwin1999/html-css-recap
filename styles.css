@@ -1,6 +1,27 @@
-#article-header{
-    color: red;
+
+main{
+    border: 10px solid pink;
+    color: crimson;
+    padding: 2px;
+    height: auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    box-shadow: 5px 5px 5px 5px lightgrey;
 }
-.heading{
+h1{
+    color: blueviolet;
+}
+header{
     color: blue;
+    padding: 2px;
+    background-color: yellow;
+}
+body{
+    background-color: white;
+    max-width: 1400px;
+    margin: auto;
+    text-align: center;
 }
