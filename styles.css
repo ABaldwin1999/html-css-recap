@@ -25,3 +25,12 @@ body{
     margin: auto;
     text-align: center;
 }
+footer{
+    background-color: crimson;
+    padding: 20px;
+}
+img{
+    height: 50px;
+    width: auto;
+    box-shadow: 5px 5px 5px 5px yellow;
+}
