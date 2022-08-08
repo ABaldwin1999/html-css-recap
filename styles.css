@@ -39,6 +39,8 @@ img{
     box-shadow: 0px 0px 5px 5px yellow;
 
 }
-.todo{
-  margin-right: 100px;
+.todo-item{
+  font-weight: bold;
+  list-style: lower-greek;
+  margin: 10px 0;
 }
